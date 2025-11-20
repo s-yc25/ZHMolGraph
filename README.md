@@ -1,2 +1,2 @@
 # ZHMolGraph
-usage 
+batch predict
